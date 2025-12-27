@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Harsh की Photo</title>
+</head>
+<body>
+    <h1>📷 Harsh की Photo</h1>
+
+    <img
+        src="https://i.ibb.co/W43TjbH3/IMG-20251223-193813-622.jpg"
+        alt="Harsh की नई Photo"
+        width="300">
+
+    <p>ये Harsh की नई upload की हुई photo है.</p>
+</body>
+</html>
